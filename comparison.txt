@@ -1,0 +1,20 @@
+
+
+JQuery 1.3.2 Core: 
+
+Jquery UI 1.7.2 with all components: jquery-ui-1.7.2.custom.min.js
+
+* GZipped:  48k
+* Minified: 192k  
+
+Jquery UI 1.7.2 with no effects, only dialog, datepicker, progress bar, tabs components: jquery-ui-1.7.2.custom.min.js
+
+* GZipped:  36k
+* Minified: 144k
+                            
+
+Jquery UI 1.7.2 with no effects, only dialog (draggable and resizable only interaction): jquery-ui-1.7.2.custom.min.js
+
+* GZipped:  16k
+* Minified: 56k
+
